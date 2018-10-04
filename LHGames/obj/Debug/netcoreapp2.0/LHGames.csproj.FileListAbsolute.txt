@@ -1,0 +1,10 @@
+/home/gabriel/Desktop/lhgames/test18/LHGames/bin/Debug/netcoreapp2.0/LHGames.deps.json
+/home/gabriel/Desktop/lhgames/test18/LHGames/bin/Debug/netcoreapp2.0/LHGames.runtimeconfig.json
+/home/gabriel/Desktop/lhgames/test18/LHGames/bin/Debug/netcoreapp2.0/LHGames.runtimeconfig.dev.json
+/home/gabriel/Desktop/lhgames/test18/LHGames/bin/Debug/netcoreapp2.0/LHGames.dll
+/home/gabriel/Desktop/lhgames/test18/LHGames/bin/Debug/netcoreapp2.0/LHGames.pdb
+/home/gabriel/Desktop/lhgames/test18/LHGames/obj/Debug/netcoreapp2.0/LHGames.csproj.CoreCompileInputs.cache
+/home/gabriel/Desktop/lhgames/test18/LHGames/obj/Debug/netcoreapp2.0/LHGames.AssemblyInfoInputs.cache
+/home/gabriel/Desktop/lhgames/test18/LHGames/obj/Debug/netcoreapp2.0/LHGames.AssemblyInfo.cs
+/home/gabriel/Desktop/lhgames/test18/LHGames/obj/Debug/netcoreapp2.0/LHGames.dll
+/home/gabriel/Desktop/lhgames/test18/LHGames/obj/Debug/netcoreapp2.0/LHGames.pdb
